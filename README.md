@@ -33,12 +33,20 @@ pip install -r requirements.txt
 ```
 
 ### Setting Up Environment Variables
-Before running the application, you need to set up your environment variables:
+Before running the application, you need to edit the `secret.py` to OpenAI API key. Replace your_openai_api_key_here with your actual OpenAI API key.
 
-Create a .env file in the root directory of the project.
-
-Add your OpenAI API key to the .env file. Replace your_openai_api_key_here with your actual OpenAI API key.
-
-```bash
+```python
+#secret.py
 OPENAI_API_KEY='your_openai_api_key_here'
 ```
+### Demonstration
+Here is a link to a demonstration of how to use the app:
+![Market Research ChatGPT Demo](https://www.youtube.com/watch?v=YXh-vqULNuE)
+
+### Preview
+
+![Market Research Survey ChatGPT Preview](./docs/generate-market-research-pic.png "Market Research Survey ChatGPT ")
+
+### Acknowledgements
+- Streamlit
+- OpenAI
