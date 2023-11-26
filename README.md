@@ -22,7 +22,7 @@ Ensure you have the following installed:
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/market-research-chatgpt.git
+git clone https://github.com/Franklin0603/market-research-survey-chatgpt.git
 cd market-research-chatgpt
 ```
 
@@ -40,8 +40,9 @@ Before running the application, you need to edit the `secret.py` to OpenAI API k
 OPENAI_API_KEY='your_openai_api_key_here'
 ```
 ### Demonstration
+
 Here is a link to a demonstration of how to use the app:
-![Market Research ChatGPT Demo](https://www.youtube.com/watch?v=YXh-vqULNuE)
+[Market Research ChatGPT Demo](https://www.youtube.com/watch?v=YXh-vqULNuE)
 
 ### Preview
 
